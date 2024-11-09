@@ -27,8 +27,8 @@ body::before {
 }
 
 .container {
-    width: 960px;
-    height: 580px;
+    width: 595px;
+    height: 680px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -58,7 +58,7 @@ body::before {
     padding: 16px 24px;
     width: 100%;
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 595;
     border: none;
     margin-top: 16px;
 }
